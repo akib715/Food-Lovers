@@ -88,7 +88,7 @@ top-area p {
 .main-area2 {
   width: 80%;
   margin: 70px auto;
-  background: cyan;
+  background:whitesmoke;
   padding: 30px 40px;
 }
 .single-item {
@@ -99,7 +99,7 @@ top-area p {
   text-align: center;
 }
 footer {
-  padding: 40px;
+  padding: 30px;
   background: darkcyan;
 }
 footer h2 {
