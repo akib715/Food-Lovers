@@ -42,5 +42,56 @@ section{
     background-position:top;
     background-size: 100%;
     width: 100%;
- 
-    }
+}
+.width-justify{
+    display: flex;
+}
+
+.top-area{
+    width: 40%;
+    margin:0 5%;
+}
+
+.top-area h2,top-area p{
+    text-align: center;
+}
+.main-area{
+    width: 90%;
+    margin: 0 5%;
+}
+
+.single-colmn{
+    width: 100%;
+    margin: 20px;
+    padding: 15px;
+}
+.single-colmn img{
+    width: 100%;
+}
+.main-area2{
+    width: 80%;
+    margin: 0 auto;
+    background: cyan;
+    padding: 30px 40px;
+}
+.single-item{
+    width: 100%;
+}
+.single-item h1,.single-item p{
+    text-align: center;
+}
+footer{
+    padding: 40px;
+    background: darkcyan;
+}
+footer h2{
+    color: white;
+    text-align: center;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
+    
+
+
